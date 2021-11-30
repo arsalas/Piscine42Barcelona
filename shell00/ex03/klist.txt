@@ -1,0 +1,6 @@
+Credentials cache: API:AAD13965-DA7B-40C0-BD7E-F7F73249411D
+        Principal: aramirez@42BARCELONA.COM
+
+  Issued                Expires               Principal
+Nov 29 10:43:23 2021  Nov 29 20:43:23 2021  krbtgt/42BARCELONA.COM@42BARCELONA.COM
+Nov 29 10:43:24 2021  Nov 29 20:43:23 2021  HTTP/student-storage.42barcelona.com@42BARCELONA.COM
